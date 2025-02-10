@@ -2,8 +2,8 @@
 
 <p>Welcome to my page! </br> My name is Mikalai, I'm a Frontend developer. </p>
 <h3>Things I code with</h3>
-<p>
 
+## 💻 Tech Stack:
     ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
